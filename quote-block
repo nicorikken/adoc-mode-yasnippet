@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: quote-block
+# key: __
+# --
+[quote, ${1:attribution}, ${2:citetitle}]
+____
+$3
+____
+$0

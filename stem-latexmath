@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: stem-latexmath
+# key: latex
+# --
+latexmath:[${1:expr}] $0

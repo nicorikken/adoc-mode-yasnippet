@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: section-4
+# key: =5
+# --
+===== $1
+
+$0

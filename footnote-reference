@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: footnote-reference
+# key: fnref
+# --
+footnoteref:[$1] $0

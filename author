@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: author
+# key: author
+# --
+${1:author} <${2:email}>$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: attribute-entry
+# key: ::
+# --
+:${1:name}: ${2:value}
+$0

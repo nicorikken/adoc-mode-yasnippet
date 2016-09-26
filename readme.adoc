@@ -1,0 +1,5 @@
+= Adoc-mode YASnippet
+
+Make your `adoc-mode` more powerfull using this set of YASnippets.
+
+These snippets originate from the snippets as definied in the link:https://github.com/asciidoctor/atom-autocomplete-asciidoc/[atom-autocomplete-asciidoc] project.

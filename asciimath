@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: stem-asciimath
+# key: asciimath
+# --
+asciimath:[${1:expr}] $0

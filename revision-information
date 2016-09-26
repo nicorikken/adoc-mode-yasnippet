@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: revision-information
+# key: rev
+# --
+v${1:1.0.0}, ${2:date}
+$0

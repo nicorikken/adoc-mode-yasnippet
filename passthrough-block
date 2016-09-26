@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: passthrough-block
+# key: ++
+# --
+++++
+$1
+++++
+$0

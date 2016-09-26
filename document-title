@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: document-title
+# description: Document title (single-line syntax)
+# descriptionMoreURL: http://asciidoctor.org/docs/user-manual/#document-title
+# key: =0
+# --
+= $1
+$0
