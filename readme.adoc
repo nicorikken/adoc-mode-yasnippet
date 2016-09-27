@@ -3,3 +3,6 @@
 Make your `adoc-mode` more powerfull using this set of YASnippets.
 
 These snippets originate from the snippets as definied in the link:https://github.com/asciidoctor/atom-autocomplete-asciidoc/[atom-autocomplete-asciidoc] project.
+
+This project is <<LICENSE,licensed>> under the MIT license, in accordance to the
+project this is based on.
